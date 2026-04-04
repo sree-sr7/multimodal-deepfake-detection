@@ -3,7 +3,7 @@
 AI-generated voice cloning is an escalating threat to biometric security systems,
 enabling identity fraud, deepfake scams, and unauthorized access. This project
 builds a multimodal countermeasure system that detects synthetic speech by fusing
-acoustic and linguistic signals — mimicking how humans cross-check *what* was said
+acoustic and linguistic signals, mimicking how humans cross-check *what* was said
 with *how* it was said.
 
 ## Results
