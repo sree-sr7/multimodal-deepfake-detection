@@ -70,4 +70,3 @@ Trained on Kaggle (GPU T4 x2) | Python 3.12 | PyTorch | HuggingFace Transformers
 - **Compute Constraints:** Due to Kaggle free-tier GPU quotas and session time limits, the model was trained on a strategically balanced subset of the ASVspoof 2019 dataset rather than the entire corpus. 
 - **Future Scaling:** Deploying this training pipeline to dedicated cloud compute instances would allow for processing the full dataset. This broader data exposure is expected to further stabilize the multimodal fusion weights and potentially push the zero-shot generalization accuracy even higher.
 - **Model Quantization:** Future work would involve quantizing the HuBERT and DistilBERT models to reduce the memory footprint for edge-device deployment.
-  
